@@ -116,6 +116,9 @@ Vous serez automatiquement connecté et invité à créer un utilisateur adminis
 2. **Accès à l'UI impossible :**
    - Assurez-vous que le port-forward est correctement configuré.
    - Confirmez que les pods sont en état **Running**.
+  <img width="1423" alt="Screenshot 2025-01-03 at 12 00 02" src="https://github.com/user-attachments/assets/69a9a38d-a778-43bf-b699-b6a5cdd6d92d" />
+
+     
 
 3. **Service non exposé :**
    - Vérifiez les services disponibles dans le namespace `vcluster-platform`.
