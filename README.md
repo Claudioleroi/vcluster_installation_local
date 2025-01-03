@@ -116,6 +116,11 @@ Vous serez automatiquement connecté et invité à créer un utilisateur adminis
 2. **Accès à l'UI impossible :**
    - Assurez-vous que le port-forward est correctement configuré.
    - Confirmez que les pods sont en état **Running**.
+  
+<img width="761" alt="Screenshot 2025-01-03 at 20 45 44" src="https://github.com/user-attachments/assets/a20d3346-9b76-4808-8608-4f3a2c58a27f" />
+
+
+
   <img width="1423" alt="Screenshot 2025-01-03 at 12 00 02" src="https://github.com/user-attachments/assets/69a9a38d-a778-43bf-b699-b6a5cdd6d92d" />
 
      
