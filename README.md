@@ -121,7 +121,7 @@ Vous serez automatiquement connecté et invité à créer un utilisateur adminis
 
 
 
-  <img width="761" alt="Screenshot 2025-01-03 at 12 00 02" src="https://github.com/user-attachments/assets/69a9a38d-a778-43bf-b699-b6a5cdd6d92d" />
+  <img width="766" alt="Screenshot 2025-01-03 at 12 00 02" src="https://github.com/user-attachments/assets/69a9a38d-a778-43bf-b699-b6a5cdd6d92d" />
 
      
 
