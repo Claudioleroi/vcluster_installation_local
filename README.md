@@ -132,6 +132,6 @@ Vous serez automatiquement connecté et invité à créer un utilisateur adminis
 
 Avec ce guide, vous devriez être en mesure d'installer et d'utiliser vCluster Platform sur votre MacBook Pro avec succès. Si vous rencontrez des problèmes, n'hésitez pas à demander de l'aide  !
 
-Hit the star  please!
+
 
 
